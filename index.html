@@ -359,7 +359,7 @@
             const allowedCategories = ['anime', 'donghua', 'bioskop', 'drakor', 'dracin'];
 
             const fetchGitHubData = async () => {
-                const apiUrl = 'https://api.github.com/repos/flixora23/flixorazone.web.id/git/trees/main?recursive=1';
+                const apiUrl = 'https://api.github.com/repos/flixora23/flixorazone.xyz/git/trees/main?recursive=1';
                 try {
                     const response = await fetch(apiUrl);
                     if (!response.ok) return { all: [], categorized: {} };
