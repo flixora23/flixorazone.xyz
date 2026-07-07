@@ -5,7 +5,7 @@ const GH_CONFIG = {
     // [UNTUK ADMIN.HTML - BAGIAN TEMPLATE STREAMING]
     // Ganti username dan nama repo di sini
     USER: 'flixora23',
-    REPO: 'flixorazone.icu'
+    REPO: 'flixorazone.xyz'
 };
 
 // [UNTUK INDEX.HTML]
